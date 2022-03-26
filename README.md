@@ -6,13 +6,14 @@
 My name is Hassen Oueslati, I'm 23 years old and I'm a Second year Computer Science Engineering student at (ESPRIT) in Tunisia.<br>I am completely passionate about frontend/backend development and MERN-stack. 
 
 ## 🙋‍♂️ About Me
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🔭 I’m currently working on PI MERN stack project For ESPRIT: E-BOARD : <br/>
           * BACKEND: https://eboardbackend2022.herokuapp.com/<br/>
           * FRONTEND: https://eboardfrontendapplication.herokuapp.com/
 
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning Java Script Frameworks and Librairies
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on open Source Project <br/> and to work as freelancer
 
 - 📫 How to contact me **hassen.oueslati@esprit.tn**
 
@@ -24,9 +25,11 @@ My name is Hassen Oueslati, I'm 23 years old and I'm a Second year Computer Scie
 <a href="https://angular.io"><img src="https://img.icons8.com/color/48/000000/angularjs.png"  width="45" height="45"/></a>
 <a href="https://spring.io"><img src="https://img.icons8.com/color/50/000000/spring-logo.png" alt="mouhebmhamdi" width="45" height="45" /></a>
 <a href="https://nodejs.org"><img src="https://img.icons8.com/color/48/000000/nodejs.png"  width="45" height="45"/></a>
-<a href="https://neo4j.com"><img src="https://img.icons8.com/color/48/000000/mongodb.png" width="45" height="45"/></a>
+<a href="https://www.mongodb.com/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> </a>
 <a href="https://www.mysql.com"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="45" height="45"/></a>
 <a href="https://getbootstrap.com"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="45" height="45"/></a>
+<a href="https://www.java.com"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="45" height="45"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="45" height="45"/> </a> 
 <a href="https://www.w3.org/html/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="45" height="45"/></a>
 <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png" width="45" height="45"/></a>
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png" width="45" height="45"/></a>
@@ -60,4 +63,13 @@ My name is Hassen Oueslati, I'm 23 years old and I'm a Second year Computer Scie
 
 <br/>
 <br/>
+
+## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/hassen-oueslati-707a7a1b3/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/oueslati_hassen/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
+
 
