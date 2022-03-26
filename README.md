@@ -69,6 +69,7 @@ My name is Hassen Oueslati, I'm 23 years old and I'm a Second year Computer Scie
 
 <a href = "https://www.linkedin.com/in/hassen-oueslati-707a7a1b3/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/oueslati_hassen/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="https://www.facebook.com/oueslati.hassen.23/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" /></a>
 
 </p>
 
