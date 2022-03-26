@@ -1,9 +1,7 @@
 <div align="center">
  <h1>Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
  </div>
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hassen-oueslati-707a7a1b3/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hassen.oueslati@esprit.tn)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/oueslati_hassen/)
+
 <br/>
 My name is Hassen Oueslati, I'm 23 years old and I'm a Second year Computer Science Engineering student at (ESPRIT) in Tunisia.<br>I am completely passionate about frontend/backend development and MERN-stack. 
 
