@@ -6,8 +6,8 @@
 My name is Hassen Oueslati, I'm 23 years old and I'm a Second year Computer Science Engineering student at (ESPRIT) in Tunisia.<br>I am completely passionate about frontend/backend development and MERN-stack. 
 
 ## 🙋‍♂️ About Me
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🔭 I’m currently working on PI MERN stack project For ESPRIT: E-BOARD : <br/>
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+- 🔭 I’m currently working on PI MERN stack For ESPRIT:<br/> <strong>E-BOARD<strong> : <br/>
           * BACKEND: https://eboardbackend2022.herokuapp.com/<br/>
           * FRONTEND: https://eboardfrontendapplication.herokuapp.com/
 
