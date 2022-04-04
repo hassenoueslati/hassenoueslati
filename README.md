@@ -74,4 +74,10 @@ My name is Hassen Oueslati, I'm 23 years old and I'm a Second year Computer Scie
 
 </p>
 
+ ## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=hassenoueslati">
+</a>
+<a href="https://github.com/hassenoueslati?tab=followers"><img src="https://img.shields.io/github/followers/hassenoueslati?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
