@@ -31,8 +31,13 @@ My name is Hassen Oueslati, I'm 23 years old and I'm a Second year Computer Scie
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="45" height="45"/> </a> 
 <a href="https://www.w3.org/html/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="45" height="45"/></a>
 <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png" width="45" height="45"/></a>
-<a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png" width="45" height="45"/></a>
+<a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png" width="45" height="45"/></a><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="45" height="45"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons//symfony/symfony-original-wordmark.svg" title="Symfony" alt="Symfony" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="Tomcat" alt="Tomcat" width="45" height="45"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="45" height="45"/>
 <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></a>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="JetBrains" alt="JetBrains" width="45" height="45"/>
 </p>
 
 <br/>
