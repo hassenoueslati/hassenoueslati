@@ -68,7 +68,7 @@ My name is Hassen Oueslati, I'm 23 years old and I'm a Second year Computer Scie
 <br/>
 <br/>
 
-## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="10%">
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/hassen-oueslati-707a7a1b3/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
