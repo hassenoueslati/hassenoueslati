@@ -6,9 +6,9 @@
 My name is Hassen Oueslati, I'm 23 years old and I'm a Second year Computer Science Engineering student at (ESPRIT) in Tunisia.<br>I am completely passionate about frontend/backend development and MERN-stack. 
 
 ## 🙋‍♂️ About Me
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github" src="https://github.com/hassenoueslati/hassenoueslati/blob/main/animation_500_kxa883sd.gif" />
 
-- 🔭 I’m currently working on MERN stack project For ESPRIT
+- 🔭 I’m currently working on Full-stack web project with Angular(Front-end) and asp.net(Back-end)
 
 - 🌱 I’m currently learning Java Script Frameworks and Librairies
 
@@ -16,7 +16,6 @@ My name is Hassen Oueslati, I'm 23 years old and I'm a Second year Computer Scie
 
 - 📫 How to contact me **hassen.oueslati@esprit.tn**
 
-- ⚡ Fun fact **I play video games.**
 
 ## 🚀 Languages and Tools:
 <p align="center">
