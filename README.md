@@ -12,7 +12,7 @@ My name is Hassen Oueslati, I'm 23 years old and I'm a Second year Computer Scie
 
 <ul style="text-align: justify; text-justify: inter-word;">
 <li>
- 🔭 I’m currently working on Full-stack web project with Angular (Front-end) .net (Back-end) <br/>and Postgresql (Database)
+ 🔭 I’m currently working on Full-stack web project with Angular (Front-end) .net (Back-end) and Postgresql (Database)
 </li>
  <br/>
 <li>
