@@ -1,8 +1,19 @@
 <div align="center">
  <h1>Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%"></h1>
- </div>
+ <br/>
+ <a href = "https://www.linkedin.com/in/hassen-oueslati-707a7a1b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href = "mailto:hassen.oueslati@esprit.tn"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href = "https://www.instagram.com/oueslati_hassen/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/oueslati.hassen.23/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</div>
 
 <br/>
+
+ 
+ 
+ 
+ 
+ 
 My name is Hassen Oueslati, I'm 23 years old and I'm a Second year Computer Science Engineering student at (ESPRIT) in Tunisia.<br>I am completely passionate about frontend/backend development and MERN-stack. 
 
 ## 🙋‍♂️ About Me
@@ -24,7 +35,7 @@ My name is Hassen Oueslati, I'm 23 years old and I'm a Second year Computer Scie
 </li>
  <br/>
  <li>
- 📫 How to contact me **hassen.oueslati@esprit.tn**
+ 💡 I'm interested with : MERN-stack and MEAN-stack
   </li>
  <br/>
  <br/>
@@ -118,15 +129,6 @@ My name is Hassen Oueslati, I'm 23 years old and I'm a Second year Computer Scie
 
 <br/>
 <br/>
-
-## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="10%">
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/hassen-oueslati-707a7a1b3/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/oueslati_hassen/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href="https://www.facebook.com/oueslati.hassen.23/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" /></a>
-
-</p>
 
  ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
