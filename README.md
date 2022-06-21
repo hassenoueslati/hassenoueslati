@@ -7,17 +7,29 @@ My name is Hassen Oueslati, I'm 23 years old and I'm a Second year Computer Scie
 
 ## 🙋‍♂️ About Me
 
-<img width="50%"  align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-<p style="text-align: justify; text-justify: inter-word;">
+<img width="1000px" height="350px"  align="right" alt="Github" src="https://github.com/hassenoueslati/hassenoueslati/blob/main/animation_500_kxa883sd.gif" />
+<br/>
 
-- 🔭 I’m currently working on Full-stack web project with Angular (Front-end) .net (Back-end) and Postgresql (Database)
-
-- ⏳ Exploring Google Cloud & Microsoft Azure
-
-- 👯 I’m looking to collaborate on open Source Project and to work as freelancer
-
-- 📫 How to contact me **hassen.oueslati@esprit.tn**
-</p>
+<ul style="text-align: justify; text-justify: inter-word;">
+<li>
+ 🔭 I’m currently working on Full-stack web project with Angular (Front-end) .net (Back-end) <br/>and Postgresql (Database)
+</li>
+ <br/>
+<li>
+ ⏳ Exploring Google Cloud & Microsoft Azure
+</li>
+ <br/>
+ <li>
+ 👯 I’m looking to collaborate on open Source Project and to work as freelancer
+</li>
+ <br/>
+ <li>
+ 📫 How to contact me **hassen.oueslati@esprit.tn**
+  </li>
+ <br/>
+ <br/>
+ 
+</ul>
 
 <!----## 🚀 Languages and Tools: ---->
 ## 🚀 Skills
