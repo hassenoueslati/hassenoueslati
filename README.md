@@ -18,7 +18,7 @@ My name is Hassen Oueslati, I'm 23 years old and I'm a Second year Computer Scie
 
 ## 🙋‍♂️ About Me
 
-<img width="1000px" height="350px"  align="right" alt="Github" src="https://github.com/hassenoueslati/hassenoueslati/blob/main/animation_500_kxa883sd.gif" />
+<img width="600px" height="350px"  align="right" alt="Github" src="https://github.com/hassenoueslati/hassenoueslati/blob/main/animation_500_kxa883sd.gif" />
 <br/>
 
 <ul style="text-align: justify; text-justify: inter-word;">
