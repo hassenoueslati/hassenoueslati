@@ -14,7 +14,7 @@
  
  
  
-My name is Hassen Oueslati, I'm 23 years old and I'm a Second year Computer Science Engineering student at (ESPRIT) in Tunisia.<br>I am completely passionate about frontend/backend development and MERN-stack. 
+My name is Hassen Oueslati, I'm 23 years old and I'm a final year Computer Science Engineering student at (ESPRIT) in Tunisia.<br>I am completely passionate about frontend and backend development. 
 
 ## 🙋‍♂️ About Me
 
@@ -35,7 +35,7 @@ My name is Hassen Oueslati, I'm 23 years old and I'm a Second year Computer Scie
 </li>
  <br/>
  <li>
- 💡 I'm interested with : MERN-stack and MEAN-stack
+ 💡 I'm interested with Web Development
   </li>
  <br/>
  <br/>
@@ -124,8 +124,6 @@ My name is Hassen Oueslati, I'm 23 years old and I'm a Second year Computer Scie
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
  </p>
-
-<a href="https://github.com/hassenoueslati"><img alt="Hassen Oueslati's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hassenoueslati&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
