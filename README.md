@@ -14,7 +14,7 @@
  
  
  
-My name is Hassen Oueslati, I'm 23 years old and I'm a final year Computer Science Engineering student at (ESPRIT) in Tunisia.<br>I am completely passionate about frontend and backend development. 
+My name is Hassen Oueslati, I'm 24 years old and I'm a final year Computer Science Engineering student at (ESPRIT) in Tunisia.<br>I am completely passionate about frontend and backend development. 
 
 ## 🙋‍♂️ About Me
 
@@ -23,7 +23,7 @@ My name is Hassen Oueslati, I'm 23 years old and I'm a final year Computer Scien
 
 <ul style="text-align: justify; text-justify: inter-word;">
 <li>
- 🔭 I’m currently working on Full-stack web project with Angular(FrontEnd) .net(BackEnd) and Postgresql(Database)
+ 🔭 I’m currently looking for an end of study internship
 </li>
  <br/>
 <li>
@@ -57,12 +57,12 @@ My name is Hassen Oueslati, I'm 23 years old and I'm a final year Computer Scien
 
 <h4> Frameworks </h4>
 <span>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
  
 </span>
