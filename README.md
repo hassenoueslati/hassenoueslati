@@ -13,7 +13,7 @@
  
  
  
-My name is Hassen Oueslati, I'm 24 years old and I'm a final year Computer Science Engineering student at (ESPRIT) in Tunisia.<br>I am completely passionate about frontend and backend development. 
+My name is Hassen Oueslati, I'm 24 years old, and I'm a Software Engineer specializing in web and internet technologies.<br>I am completely passionate about frontend and backend development. 
 
 ## 🙋‍♂️ About Me
 
@@ -22,7 +22,7 @@ My name is Hassen Oueslati, I'm 24 years old and I'm a final year Computer Scien
 
 <ul style="text-align: justify; text-justify: inter-word;">
 <li>
- 🔭 I’m currently looking for an end of study internship
+ 🔭 I'm currently seeking my first job opportunity.
 </li>
  <br/>
 <li>
